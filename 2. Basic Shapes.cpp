@@ -12,8 +12,7 @@ int main()
 {
 int gdriver = DETECT, gmode;
 int xmax,ymax;
-initgraph(&gdriver, &gmode,
-"c:\\turboc3\\bgi");
+initgraph(&gdriver, &gmode,"c:\\turboc3\\bgi");
 xmax = getmaxx();
 ymax = getmaxy();
 line(xmax/2,0,xmax/2,ymax);
