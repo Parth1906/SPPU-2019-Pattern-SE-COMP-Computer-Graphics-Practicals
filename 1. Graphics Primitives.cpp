@@ -10,8 +10,7 @@ primitives and color it.
 int main()
 {
 int gdriver = DETECT, gmode;
-initgraph(&gdriver, &gmode,
-"c:\\turboc3\\bgi");
+initgraph(&gdriver, &gmode,"c:\\turboc3\\bgi");
 //LINE
 line(250,200,350,350);
 //CIRCLE
