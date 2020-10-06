@@ -1,7 +1,8 @@
 /*
 5. B) Write a c++ program inscribed and
 circumscribed circles in triangle
-CODE:
+*/
+
 #include<iostream.H>
 #include<graphics.h>
 #include<stdio.h>
