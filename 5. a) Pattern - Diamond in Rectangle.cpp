@@ -77,13 +77,10 @@ setbkcolor(WHITE);
 ddaline(50,50,50,200,2); //left vert
 ddaline(50,50,350,50,4); //up horizontal
 ddaline(350,50,350,200,6); //right vert
-ddaline(50,200,350,200,7); //down
-horizontal
+ddaline(50,200,350,200,7); //down horizontal
 ddaline(200,50,50,125,9); //diamond up left
-bline(50,125,200,200,12); //diamond
-left,down
-ddaline(350,125,200,200,14);//diamond
-down,right
+bline(50,125,200,200,12); //diamond left,down
+ddaline(350,125,200,200,14);//diamond down,right
 bline(200,50,350,125,3); //diamond right,up
 ddaline(275,87,275,163,4);//in right
 ddaline(125,87,275,87,5);//in up
