@@ -14,3 +14,5 @@ Group A Practicals :
    B) Write a c++ program inscribed and circumscribed circles in triangle.
    
 6. Write C++ program to draw a concave polygon and fill it with desired color using scan fill algorithm.
+
+7. Write C++ program to implement Cohen Southerland line clipping algorithm.
