@@ -73,7 +73,7 @@ void POLYGON :: draw_poly(int p[][10], int n)
 		else
 			line(p[i][0]+320, -p[i][1]+240, p[0][0]+320, -p[0][1]+240);
 	}
-	delay(3000);
+	
 
 	
 }
@@ -95,7 +95,7 @@ void POLYGON :: draw_polyfloat(float p[][10], int n)
 		else
 			line(p[i][0]+320, -p[i][1]+240, p[0][0]+320, -p[0][1]+240);
 	}
-	//delay(8000);
+	
 	
 }
 
@@ -345,27 +345,27 @@ int main()
 		switch(ch)
 		{
 			case 1:
-				//cout<<"case1";
+				
 				p1.translation(p,n);
 				break;
 
 			case 2:
-				//cout<<"case2";
+				
 				p1.scaling(p,n);
 				break;
 
 			case 3:
-				//cout<<"case3";
+				
 				p1.rotation(p,n);
 				break;
 
 			case 4:
-				//cout<<"case4";
+				
 				p1.reflection(p,n);
 				break;
 
 			case 5:
-				//cout<<"case5";
+				
 				p1.shearing(p,n);
 				break;
 
