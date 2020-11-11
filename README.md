@@ -17,4 +17,16 @@ Group A Practicals :
 
 7. Write C++ program to implement Cohen Southerland line clipping algorithm.
 
+Group B Practicals :
+
+8. Write C++/Java program to draw 2-D object and perform following basic transformations,
+   a) Scaling
+   b) Translation
+   c) Rotation
+   Use operator overloading.
+   
+9. Write C++ Program to generate Hilbert Curve using concept of fractals.
+
+10.Write a program to draw Sunrise and Sunset. 
+
 PDF is also uploaded with output screenshots of every program.
